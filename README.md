@@ -2,7 +2,7 @@ README.md
 ========================================================
 Work done as a project assignment as a part of Getting and Clean Data course.
 
-### Project Description :
+## Project Description :
 R script called run_analysis.R is created that does the following. 
 
     Merges the training and the test sets to create one data set.
